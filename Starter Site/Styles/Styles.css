@@ -1,0 +1,48 @@
+﻿body {
+    background-image:url(../Images/Lake.jpg);
+    background-size:100%;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+
+/*When referencing an ID, use the #*/
+#topbar {
+    text-align:center;
+    border:2px black dotted;
+    background-color:orange;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    text-align:center;
+    font-family:'Arial Narrow', Arial, sans-serif;
+    background-color:aqua;
+
+}
+
+p.lipsum {
+    font-style:italic;
+    color:antiquewhite;
+}
+
+.cool {
+    font-size:120%;
+    border: 1px solid blue;
+    margin:10px;
+    padding:10px; 
+    background-color:white; 
+}
+
+footer {
+    background-color:orange;
+    border-top:1px solid blue;
+    border:2px dashed red;
+}
+
+h3.footer {
+    font-family:Arial,sans-serif;
+    color: white;
+    text-align:center;
+}
+
+
